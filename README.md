@@ -4,4 +4,7 @@
   </a>
 </div>
 
+<img align="right" height="300px" src="https://media1.tenor.com/m/nJxuaoh0a44AAAAd/starfire-teen-titans.gif"  />
+
+
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31kyphsseufalvl7roti3qs6z754)
