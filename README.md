@@ -1,6 +1,6 @@
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,svg,tailwind,laravel,php&perline=7&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,svg,tailwind,laravel,php&perline=8&theme=dark" />
   </a>
   
   ###
